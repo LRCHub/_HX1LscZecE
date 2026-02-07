@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "キャラメルパイ",
+  "base_artist": "35.7",
+  "createdAt": "2026-02-07T16:50:13.910113Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "キャラメルパイ",
+      "artist": "35.7",
+      "has_synced": false,
+      "path": "select/pl_01_キャラメルパイ_35.7.txt"
+    }
+  ]
+}
